@@ -1,6 +1,6 @@
 # Anastasiia Savelieva
 
-MSc Financial Mathematics student (double degree, University of Ulm &
+MSc Financial Mathematics student (double degree: University of Ulm &
 Taras Shevchenko National University of Kyiv). Building toward a data /
 business analyst role, with a quantitative background and hands-on
 analytics work in SQL, Python, R and Tableau.
@@ -25,5 +25,6 @@ part of my work. Use the links below to navigate:
 ## Skills
 
 **Tools:** SQL (BigQuery) · Python (pandas, scipy, statsmodels) · R · Tableau · Excel 
+
 **Focus areas:** A/B testing · marketing & product analytics · statistical modelling · data cleaning
 
