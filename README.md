@@ -1,4 +1,4 @@
-# SKELAR IT — Analytics Intensive · Projects
+# SKELAR IT — Analytics Intensive · Analytical Case Studies
 
 Practical analytics projects built during the SKELAR IT Analytics Intensive.
 Focus: SQL, A/B testing, and dashboard design on realistic product and marketing data.
