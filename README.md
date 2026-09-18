@@ -49,9 +49,14 @@ who didn't. Recommended fixing display logs before full rollout.
 Rebuilt the same dashboard in both tools to demonstrate cross-platform 
 proficiency and highlight tool-specific strengths.
 
-[📄 Description (PDF)](./Marketing%20Performance%20Dashboard.pdf) ·
+**Tableau**  
+[📄 Description & recommendations (PDF)](./Marketing%20Performance%20Dashboard.pdf) ·
 [🔗 Live dashboard on Tableau Public](https://public.tableau.com/app/profile/anastasiia.savelieva6332/viz/MarketingPerformanceDashboard_17817168294800/Dashboard)
-**Power BI version** · [PBIX file](Marketing_Dashboard_PowerBI.pbix) · [PDF export](Marketing_Dashboard_PowerBI.pdf) · [Screenshots](screenshots/)
+
+**Power BI**  
+[📄 Dashboard preview (PDF)](./Marketing_Dashboard_PowerBI.pdf) ·
+[🎛 Filter states demo (PDF)](./powerbi/Marketing_Dashboard_PowerBI_filters.pdf) ·
+[📊 .pbix source file](./powerbi/Marketing_Dashboard_PowerBI.pbix)
 
 A monthly marketing performance dashboard designed so the team can read the
 full picture in about two minutes. Blocks grouped by question type:
