@@ -55,8 +55,8 @@ proficiency and highlight tool-specific strengths.
 
 **Power BI**  
 [📄 Dashboard preview (PDF)](./Marketing_Dashboard_PowerBI.pdf) ·
-[🎛 Filter states demo (PDF)](./powerbi/Marketing_Dashboard_PowerBI_filters.pdf) ·
-[📊 .pbix source file](./powerbi/Marketing_Dashboard_PowerBI.pbix)
+[🎛 Filter states demo (PDF)](./Power%20BI/Marketing_Dashboard_PowerBI_filters.pdf) ·
+[📊 .pbix source file](./Power%20BI/Marketing_Dashboard_PowerBI.pbix)
 
 A monthly marketing performance dashboard designed so the team can read the
 full picture in about two minutes. Blocks grouped by question type:
