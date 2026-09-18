@@ -51,7 +51,7 @@ proficiency and highlight tool-specific strengths.
 
 **Tableau**  
 [📄 Description & recommendations (PDF)](./Marketing%20Performance%20Dashboard.pdf) ·
-[🔗 Live dashboard on Tableau Public](https://public.tableau.com/app/profile/anastasiia.savelieva6332/viz/MarketingPerformanceDashboard_17817168294800/Dashboard)
+[🔗 Live dashboard on Tableau Public](https://public.tableau.com/app/profile/anastasiia.savelieva6332/viz/MarketingPerformanceDashboard_17817168294800/Dashboard1)
 
 **Power BI**  
 [📄 Dashboard preview (PDF)](./Marketing_Dashboard_PowerBI.pdf) ·
